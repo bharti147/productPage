@@ -30,7 +30,7 @@
 }
 
 .product{
-   height: 33rem;
+   height: 35rem;
    width: 25%;
 
    display: flex;
@@ -145,7 +145,7 @@
   width: 50%;
     padding: 4rem 2rem;
    margin-top: 4rem;
-    border: 1px solid palevioletred;
+
    border-radius: 1rem;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
