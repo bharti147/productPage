@@ -27,7 +27,7 @@ This project is a basic product page for an e-commerce website. It includes dyna
 3. Open index.html in your browser to view the project.
 
 ## Live Demo
-  Check out the live demo here.
+  Check out the live demo here[https://ecommercestore-productpage.netlify.app/].
 
 ## Contact
   If you have any questions or feedback, feel free to contact me at [bhartisahani406@gmail.com].
